@@ -1,8 +1,11 @@
+// my first program
 fn main() {
-    println!("
+    println!(
+        "
     “Passion is energy.
     Feel the power
     that comes from
     focusing what excites you.”
-    - Oprah Winfrey");
+    - Oprah Winfrey"
+    );
 }
